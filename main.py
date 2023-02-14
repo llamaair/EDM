@@ -1,8 +1,3 @@
-from datetime import date
-
-today = date.today()
-print(f"Logged start of EDM at {today}")
-
 from tkinter import *
 window=Tk()
 # add widgets here
